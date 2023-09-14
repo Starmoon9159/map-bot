@@ -1,0 +1,7 @@
+{
+	"prefix": "t!",
+	"verifyRole": "1016704626956963870",
+	"messages": {
+		"COOLDOWN_MESSAGE": "**你還有`<duration>`秒的冷卻，不然伺服器要燒拉!**"
+	}
+}

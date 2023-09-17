@@ -1,0 +1,7 @@
+{
+	"prefix": "t!",
+	"verifyRole": "1018022829209440276",
+	"messages": {
+		"COOLDOWN_MESSAGE": "**你還有`<duration>`的冷卻，不然跑機器人的伺服器要燒拉!**"
+	}
+}
